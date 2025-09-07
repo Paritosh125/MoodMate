@@ -33,15 +33,15 @@ It helps you **log daily moods**, **track emotional trends**, and **visualize yo
 ## 📸 Screenshots  
 
 ### Login   
-![Login Screenshot](MoodMate img/Login.jpg)  
+![Login Screenshot](screenshots/Login.jpg)  
 
 ### Register  
-![Register Screenshot](MoodMate img/Register.jpg) 
+![Register Screenshot](screenshots/Register.jpg) 
 
 ### Journal Page  
-![Journal Screenshot](MoodMate img/Journal.jpg)  
+![Journal Screenshot](screenshots/Journal.jpg)  
 
 ### Analytics Page  
-![Analytics Screenshot](MoodMate img/Analytics.jpg)  
+![Analytics Screenshot](screenshots/Analytics.jpg)  
 
 
